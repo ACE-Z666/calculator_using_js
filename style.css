@@ -1,0 +1,39 @@
+.cal{
+    width: 500px;
+    height: 712px;
+    background-color: cadetblue;
+    margin-left: 507px;
+}
+#out{
+    width: 420px;
+    height: 30px;
+    pointer-events: none;
+    margin-left: 40px;
+    margin-top: 55px;
+    font-size: 15px;
+}
+.btn{
+    height: 55px;
+    width: 55px;
+    background-color: bisque;
+    margin: 24px;
+    font-size: 15px;
+    
+}
+.row{
+    margin-left: 36px;
+    margin-top: 10px ;
+
+}
+#clrbtn{
+    margin-left: 25px;
+    
+}
+.btn1{
+    height: 55px;
+    width: 55px;
+    background-color: bisque;
+    margin: 24px;
+    margin-left: 57px;
+    
+}
